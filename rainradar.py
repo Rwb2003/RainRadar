@@ -164,8 +164,8 @@ class WeatherApp:
 
 
 if __name__ == "__main__":
-    OWM_API_KEY = "7030b33350c6ad1dae513c7908983388"
-    GEODB_API_KEY = "a7c5ed1b6cmsh6e4b6c731836a57p17da0cjsn9bb8081a1a6b"
+    OWM_API_KEY = "apikey"
+    GEODB_API_KEY = "apikey2"
 
     ctk.set_appearance_mode("dark")
     ctk.set_default_color_theme("blue")
