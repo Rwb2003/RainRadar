@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 # Clés API (à remplacer par vos propres clés)
-OWM_API_KEY = "7030b33350c6ad1dae513c7908983388"
-GEODB_API_KEY = "a7c5ed1b6cmsh6e4b6c731836a57p17da0cjsn9bb8081a1a6b"
+OWM_API_KEY = "#1api key here"
+GEODB_API_KEY = "#2api key here"
 
 # Fonctions pour obtenir les données des APIs
 def get_weather(city):
