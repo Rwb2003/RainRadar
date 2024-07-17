@@ -56,7 +56,7 @@ Cette application météo utilise les bibliothèques `customtkinter` et `matplot
 1. Exécutez l'application :
 
     ```sh
-    python app.py
+    python RainRadar.py
     ```
 
 2. Entrez le nom de la ville dans le champ de saisie et cliquez sur "Obtenir les informations" pour afficher les informations météorologiques et les prévisions.
