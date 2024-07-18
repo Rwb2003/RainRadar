@@ -70,7 +70,7 @@ Cette application météo utilise les bibliothèques `customtkinter` et `matplot
 - Image de la ville (si disponible).
 - Graphique des températures prévues pour les prochains jours.
 
-![Screenshot](OIG3.jpg)
+![Screenshot](image.png)
 
 ## Contribution
 
