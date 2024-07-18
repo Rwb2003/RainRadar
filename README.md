@@ -1,5 +1,7 @@
 # Application Météo avec CustomTkinter
 
+![Screenshot](OIG3.jpg)
+
 Cette application météo utilise les bibliothèques `customtkinter` et `matplotlib` pour fournir des informations météorologiques et afficher un graphique des températures prévues.
 
 ## Fonctionnalités
@@ -68,7 +70,7 @@ Cette application météo utilise les bibliothèques `customtkinter` et `matplot
 - Image de la ville (si disponible).
 - Graphique des températures prévues pour les prochains jours.
 
-![Screenshot](screenshot.png)
+![Screenshot](OIG3.jpg)
 
 ## Contribution
 
