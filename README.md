@@ -67,7 +67,6 @@ Cette application météo utilise les bibliothèques `customtkinter` et `matplot
 
 - Informations météo actuelles (température, description, humidité, vitesse du vent).
 - Population de la ville (si disponible).
-- Image de la ville (si disponible).
 - Graphique des températures prévues pour les prochains jours.
 
 ![Screenshot](image.png)
