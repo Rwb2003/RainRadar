@@ -25,8 +25,8 @@ Cette application météo utilise les bibliothèques `customtkinter` et `matplot
 1. Clonez le dépôt GitHub :
 
     ```sh
-    git clone https://github.com/votre-utilisateur/votre-repo.git
-    cd votre-repo
+    git clone https://github.com/Rwb2003/RainRadar.git
+    cd RainRadar
     ```
 
 2. Créez un environnement virtuel et activez-le :
