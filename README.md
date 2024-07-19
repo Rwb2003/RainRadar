@@ -9,7 +9,6 @@ Cette application météo utilise les bibliothèques `customtkinter` et `matplot
 - Affichage des informations météorologiques actuelles pour une ville donnée.
 - Affichage des prévisions météorologiques pour les prochains jours.
 - Affichage de la population de la ville (si disponible).
-- Affichage d'une image de la ville (si disponible).
 - Graphique des températures prévues pour les prochains jours.
 
 ## Prérequis
@@ -17,7 +16,6 @@ Cette application météo utilise les bibliothèques `customtkinter` et `matplot
 - Python 3.x
 - `requests` library
 - `customtkinter` library
-- `Pillow` library
 - `matplotlib` library
 
 ## Installation
@@ -39,7 +37,7 @@ Cette application météo utilise les bibliothèques `customtkinter` et `matplot
 3. Installez les dépendances nécessaires :
 
     ```sh
-    pip install requests customtkinter Pillow matplotlib
+    pip install requests customtkinter matplotlib
     ```
 
 ## Configuration
