@@ -30,7 +30,7 @@ Cette application météo utilise les bibliothèques `customtkinter` et `matplot
 2. Créez un environnement virtuel et activez-le :
 
     ```sh
-    python -m venv venv
+    python -m venv .venv
     source venv/bin/activate  # Sur Windows, utilisez `venv\Scripts\activate`
     ```
 
