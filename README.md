@@ -44,7 +44,7 @@ Cette application météo utilise les bibliothèques `customtkinter` et `matplot
 
 ## Configuration
 
-1. Remplacez les clés API dans le fichier `app.py` par vos propres clés API :
+1. Remplacez les clés API dans le fichier `rainradar.py` par vos propres clés API :
     - `OWM_API_KEY` : Clé API de [OpenWeatherMap](https://openweathermap.org/api).
     - `GEODB_API_KEY` : Clé API de [GeoDB Cities](https://rapidapi.com/wirefreethought/api/geodb-cities).
 
@@ -58,7 +58,7 @@ Cette application météo utilise les bibliothèques `customtkinter` et `matplot
 1. Exécutez l'application :
 
     ```sh
-    python RainRadar.py
+    python rainradar.py
     ```
 
 2. Entrez le nom de la ville dans le champ de saisie et cliquez sur "Obtenir les informations" pour afficher les informations météorologiques et les prévisions.
