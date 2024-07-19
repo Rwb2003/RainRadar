@@ -13,7 +13,7 @@ Cette application météo utilise les bibliothèques `customtkinter` et `matplot
 
 ## Prérequis
 
-- Python 3.x
+- Python 3.12
 - `requests` library
 - `customtkinter` library
 - `matplotlib` library
